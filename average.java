@@ -1,9 +1,9 @@
 
 import java.util.Scanner;
-public class Average {
+public class average{
     int n1,n2,n3;
     public static void main(String args[]) {
-        Average obj=new Average();
+        average obj=new average();
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter three numbers : ");
        
