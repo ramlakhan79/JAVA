@@ -4,6 +4,6 @@ class Tringle {
          int a=15;
          int A;
          A=(a*b)/2;
-        System.out.println("Area is "+A);
+        System.out.println("Area is : "+A);
     }
 }
