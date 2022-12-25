@@ -1,7 +1,7 @@
 /*  Aim: Write a program in JAVA to take 3 numbers as Input from User, compute Average and 
 display the result. */
 
-import java.util.*;
+import java.util.Scanner;
 class ScannerExample
 {
 public static void main(String[] args)
