@@ -1,7 +1,6 @@
 import java.util.Scanner;
 class MatrixMultiplication 
-{
-    
+{   
     public static void main(String a[]) 
     { 
       int arr[][] = new int[2][2];
